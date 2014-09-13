@@ -1,2 +1,2 @@
-mini-pod-android
+Project Name
 ================

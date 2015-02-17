@@ -24,3 +24,6 @@ proguard/
 
 # Log Files
 *.log
+
+# Ignore linked manifest for vim development environment
+AndroidManifest.xml
